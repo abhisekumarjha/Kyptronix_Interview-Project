@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../../public/Logo.png'
+import Logo from '../../public/logo.png'
 import Search from '../../public/search.png'
 import Heart from '../../public/ph_heart.png'
 import Cart from '../../public/clarity_shopping-cart-line.png'
