@@ -159,7 +159,7 @@ const HeroSection = () => {
                         }}
                     />
                 </div>
-                <div className='absolute right-0 bottom-0 flex gap-5'>
+                <div className='absolute right-0 bottom-5 flex gap-5'>
                     <div
                         className='w-[40px] h-[40px] bg-gray-300 rounded-full flex items-center justify-center cursor-pointer'
                         onClick={prevImage}
